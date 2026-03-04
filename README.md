@@ -1,4 +1,4 @@
-# 🔧 ProcureGuard — Smart Procurement & Vendor Risk Management Hub
+# 🔧 RAP Project — Smart Procurement & Vendor Risk Management Hub
 
 ![SAP RAP](https://img.shields.io/badge/SAP%20RAP-Managed%20BO-0070F2?style=flat-square&logo=sap)
 ![ABAP](https://img.shields.io/badge/ABAP-7.56%2B-blue?style=flat-square)
